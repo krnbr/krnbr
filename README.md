@@ -2,7 +2,7 @@
 
 My name is Karanbir Singh, I am Software Engineer From Chandigarh, India.
 
-🔭 I’m currently working on Microservices based on Sring Boot, NodeJS & AWS Lambda Functions
+🔭 I’m currently working on Microservices based on Spring Boot, NodeJS & AWS Lambda Functions
 
 Follow me on medium at - https://medium.com/@karanbir.tech
 
